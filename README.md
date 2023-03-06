@@ -1,2 +1,2 @@
-# Les-puzzles-de-minuit
+# Les puzzles de minuit
 Œuvre d'art en ligne
